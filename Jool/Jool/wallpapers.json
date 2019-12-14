@@ -1,53 +1,50 @@
-{
-    "Wallpapers":
-    [
-        {
-            "author": "Unknown",
-            "url": "https://drive.google.com/uc?id=1-G-y765soki2ly94u5v2wOPhySLQo4SN",
-            "thumbUrl": "https://drive.google.com/uc?id=1-G-y765soki2ly94u5v2wOPhySLQo4SN",
-            "name": "Astronaut"
-        },
-        {
-            "author": "Unknown",
-            "url": "https://drive.google.com/uc?id=1-2HJcefdtVINrn1M4YXNHom9zC12k1dQ",
-            "thumbUrl": "https://drive.google.com/uc?id=1-2HJcefdtVINrn1M4YXNHom9zC12k1dQ",
-            "name": "Fire"
-        },
-        {
-            "author": "Unknown",
-            "url": "https://drive.google.com/uc?id=1-CjZLjLeFrfshYAg43kl47eeIIFSRzzL",
-            "thumbUrl": "https://drive.google.com/uc?id=1-CjZLjLeFrfshYAg43kl47eeIIFSRzzL",
-            "name": "Blue Sky"
-        },
-        {
-            "author": "Unknown",
-            "url": "https://drive.google.com/uc?id=1-8vKO1cluqNZO3dbF50G1crclN2BBx5P",
-            "thumbUrl": "https://drive.google.com/uc?id=1-8vKO1cluqNZO3dbF50G1crclN2BBx5P",
-            "name": "Lake View"
-        },
-        {
-            "author": "Unknown",
-            "url": "https://drive.google.com/uc?id=1-0NaX-AOkYioG1C3Qf_W2sw7g8vg7yZf",
-            "thumbUrl": "https://drive.google.com/uc?id=1-0NaX-AOkYioG1C3Qf_W2sw7g8vg7yZf",
-            "name": "Fallen"
-        },
-        {
-            "author": "Unknown",
-            "url": "https://drive.google.com/uc?id=1-8_Ffl04tibo8pSMY02o1mgml1RAGKK-",
-            "thumbUrl": "https://drive.google.com/uc?id=1-8_Ffl04tibo8pSMY02o1mgml1RAGKK-",
-            "name": "Pink Flowers"
-        },
-        {
-            "author": "Unknown",
-            "url": "https://drive.google.com/uc?id=1-Bbk5K5eiCcHRRSj1l5EZsxZzAdeODID",
-            "thumbUrl": "https://drive.google.com/uc?id=1-Bbk5K5eiCcHRRSj1l5EZsxZzAdeODID",
-            "name": "Rain Drops"
-        },
-        {
-            "author": "Unknown",
-            "url": "https://drive.google.com/uc?id=1-F8H1zV3NADFeULxWJ7ofojZ14jY0lEg",
-            "thumbUrl": "https://drive.google.com/uc?id=1-F8H1zV3NADFeULxWJ7ofojZ14jY0lEg",
-            "name": "Black Paper"
-        },
-    ]
-}
+[
+    {
+        "author": "Unknown",
+        "url": "https://drive.google.com/uc?id=1-G-y765soki2ly94u5v2wOPhySLQo4SN",
+        "thumbUrl": "https://drive.google.com/uc?id=1-G-y765soki2ly94u5v2wOPhySLQo4SN",
+        "name": "Astronaut"
+    },
+    {
+        "author": "Unknown",
+        "url": "https://drive.google.com/uc?id=1-2HJcefdtVINrn1M4YXNHom9zC12k1dQ",
+        "thumbUrl": "https://drive.google.com/uc?id=1-2HJcefdtVINrn1M4YXNHom9zC12k1dQ",
+        "name": "Fire"
+    },
+    {
+        "author": "Unknown",
+        "url": "https://drive.google.com/uc?id=1-CjZLjLeFrfshYAg43kl47eeIIFSRzzL",
+        "thumbUrl": "https://drive.google.com/uc?id=1-CjZLjLeFrfshYAg43kl47eeIIFSRzzL",
+        "name": "Blue Sky"
+    },
+    {
+        "author": "Unknown",
+        "url": "https://drive.google.com/uc?id=1-8vKO1cluqNZO3dbF50G1crclN2BBx5P",
+        "thumbUrl": "https://drive.google.com/uc?id=1-8vKO1cluqNZO3dbF50G1crclN2BBx5P",
+        "name": "Lake View"
+    },
+    {
+        "author": "Unknown",
+        "url": "https://drive.google.com/uc?id=1-0NaX-AOkYioG1C3Qf_W2sw7g8vg7yZf",
+        "thumbUrl": "https://drive.google.com/uc?id=1-0NaX-AOkYioG1C3Qf_W2sw7g8vg7yZf",
+        "name": "Fallen"
+    },
+    {
+        "author": "Unknown",
+        "url": "https://drive.google.com/uc?id=1-8_Ffl04tibo8pSMY02o1mgml1RAGKK-",
+        "thumbUrl": "https://drive.google.com/uc?id=1-8_Ffl04tibo8pSMY02o1mgml1RAGKK-",
+        "name": "Pink Flowers"
+    },
+    {
+        "author": "Unknown",
+        "url": "https://drive.google.com/uc?id=1-Bbk5K5eiCcHRRSj1l5EZsxZzAdeODID",
+        "thumbUrl": "https://drive.google.com/uc?id=1-Bbk5K5eiCcHRRSj1l5EZsxZzAdeODID",
+        "name": "Rain Drops"
+    },
+    {
+        "author": "Unknown",
+        "url": "https://drive.google.com/uc?id=1-F8H1zV3NADFeULxWJ7ofojZ14jY0lEg",
+        "thumbUrl": "https://drive.google.com/uc?id=1-F8H1zV3NADFeULxWJ7ofojZ14jY0lEg",
+        "name": "Black Paper"
+    }
+]
