@@ -1,8 +1,8 @@
 {
-  "latestVersion": "2.9",
-  "latestVersionCode": 25,
+  "latestVersion": "2.10",
+  "latestVersionCode": 26,
   "disableRequest": {
-    "below": 25,
+    "below": 26,
     "on": ""
   },
   "url": "https://play.google.com/store/apps/details?id=com.dreamon.ruzits",
