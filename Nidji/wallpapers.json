@@ -1,6 +1,6 @@
 [
     {
-		"name": "wall_1",
+        "name": "wall_1",
         "author": "Unknown",
         "url": "https://drive.google.com/uc?id=1aDwWFt712XHp-swPzLnQ7uL10n1k91Eu",
         "thumbUrl": "https://drive.google.com/uc?id=1xpDQCDHQLXmn83CkPmy6ZtAAsMTT_7-m"
@@ -32,19 +32,19 @@
     {
         "name": "wall_purple",
         "author": "@girindra09",
-		"url": "https://drive.google.com/uc?id=1VXvzA3biZXSMyVVIfi6G0zyi8bteI9zu",
-		"thumbUrl": "https://drive.google.com/uc?id=1tWU4quHCQIOvwV-Itxnon2gaU3ED2njY"
-	},
-	{
-		"name": "wall_red",
-		"author": "@girindra09",
-		"url": "https://drive.google.com/uc?id=1CMRv4q9MAfYYwx8AEK8JBRVl8cWfyqUM",
-		"thumbUrl": "https://drive.google.com/uc?id=1l2DeSE6tPf5c6LDg20JCVanMVeWkA0k-"
-	},
-	{
-		"name": "wall_yellow",
-		"author": "@girindra09",
-		"url": "https://drive.google.com/uc?id=1WHICesYiwnE7A-2xUCFWXyiXMnusuhLu",
-		"thumbUrl": "https://drive.google.com/uc?id=1lfnKYuoZFMa8ElX7RExJkI3g5BXnm93a"
-	}
+        "url": "https://drive.google.com/uc?id=1VXvzA3biZXSMyVVIfi6G0zyi8bteI9zu",
+        "thumbUrl": "https://drive.google.com/uc?id=1tWU4quHCQIOvwV-Itxnon2gaU3ED2njY"
+    },
+    {
+        "name": "wall_red",
+        "author": "@girindra09",
+        "url": "https://drive.google.com/uc?id=1CMRv4q9MAfYYwx8AEK8JBRVl8cWfyqUM",
+        "thumbUrl": "https://drive.google.com/uc?id=1l2DeSE6tPf5c6LDg20JCVanMVeWkA0k-"
+    },
+    {
+        "name": "wall_yellow",
+        "author": "@girindra09",
+        "url": "https://drive.google.com/uc?id=1WHICesYiwnE7A-2xUCFWXyiXMnusuhLu",
+        "thumbUrl": "https://drive.google.com/uc?id=1lfnKYuoZFMa8ElX7RExJkI3g5BXnm93a"
+    }
 ]
