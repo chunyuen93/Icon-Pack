@@ -1,37 +1,37 @@
 [
-	{
+    {
 		"name": "wall_1",
-		"author": "Unknown",
-		"url": "https://drive.google.com/uc?id=1aDwWFt712XHp-swPzLnQ7uL10n1k91Eu",
-		"thumbUrl": "https://drive.google.com/uc?id=1xpDQCDHQLXmn83CkPmy6ZtAAsMTT_7-m"
-	},
-	{
-		"name": "wall_2",
-		"author": "Unknown",
-		"url": "https://drive.google.com/uc?id=1jFI09UaxCnKpuNMbMlTSWIkWdmcBPHw_",
-		"thumbUrl": "https://drive.google.com/uc?id=1Hk_9LrWC72rQSjKTQfgxpr-EJCrWdeHV"
-	},
-	{
-		"name": "wall_blue",
-		"author": "@girindra09",
-		"url": "https://drive.google.com/uc?id=19F08I1-z3wHpbdxYVx9aQ5CxeWzQQldr",
-		"thumbUrl": "https://drive.google.com/uc?id=1V9byZElVhCOKMkuBBwMTyt3sXFlC-cDU"
-	},
-	{
-		"name": "wall_green",
-		"author": "@girindra09",
-		"url": "https://drive.google.com/uc?id=1GHY2oRvICLb1wXBTXgOl3Xy0VlLzcWOj",
-		"thumbUrl": "https://drive.google.com/uc?id=1_ek6epJ-RaH4YxGrMUGxQ3iKAM81ec5w"
-	},
-	{
-		"name": "wall_pink",
-		"author": "@girindra09",
-		"url": "https://drive.google.com/uc?id=1fYtei4N3KtJLuTgPDQi0lP7uGYljM0eD",
-		"thumbUrl": "https://drive.google.com/uc?id=1fHU3USBS5hHPJ0uMtYJdcqx6S9G3rsNb
-	},
-	{
-		"name": "wall_purple",
-		"author": "@girindra09",
+        "author": "Unknown",
+        "url": "https://drive.google.com/uc?id=1aDwWFt712XHp-swPzLnQ7uL10n1k91Eu",
+        "thumbUrl": "https://drive.google.com/uc?id=1xpDQCDHQLXmn83CkPmy6ZtAAsMTT_7-m"
+    },
+    {
+        "name": "wall_2",
+        "author": "Unknown",
+        "url": "https://drive.google.com/uc?id=1jFI09UaxCnKpuNMbMlTSWIkWdmcBPHw_",
+        "thumbUrl": "https://drive.google.com/uc?id=1Hk_9LrWC72rQSjKTQfgxpr-EJCrWdeHV"
+    }
+    {
+        "name": "wall_blue",
+        "author": "@girindra09",
+        "url": "https://drive.google.com/uc?id=19F08I1-z3wHpbdxYVx9aQ5CxeWzQQldr",
+        "thumbUrl": "https://drive.google.com/uc?id=1V9byZElVhCOKMkuBBwMTyt3sXFlC-cDU"
+    },
+    {
+        "name": "wall_green",
+        "author": "@girindra09",
+        "url": "https://drive.google.com/uc?id=1GHY2oRvICLb1wXBTXgOl3Xy0VlLzcWOj",
+        "thumbUrl": "https://drive.google.com/uc?id=1_ek6epJ-RaH4YxGrMUGxQ3iKAM81ec5w"
+    },
+    {
+        "name": "wall_pink",
+        "author": "@girindra09",
+        "url": "https://drive.google.com/uc?id=1fYtei4N3KtJLuTgPDQi0lP7uGYljM0eD",
+        "thumbUrl": "https://drive.google.com/uc?id=1fHU3USBS5hHPJ0uMtYJdcqx6S9G3rsNb
+    },
+    {
+        "name": "wall_purple",
+        "author": "@girindra09",
 		"url": "https://drive.google.com/uc?id=1VXvzA3biZXSMyVVIfi6G0zyi8bteI9zu",
 		"thumbUrl": "https://drive.google.com/uc?id=1tWU4quHCQIOvwV-Itxnon2gaU3ED2njY"
 	},
@@ -48,4 +48,3 @@
 		"thumbUrl": "https://drive.google.com/uc?id=1lfnKYuoZFMa8ElX7RExJkI3g5BXnm93a"
 	}
 ]
-
