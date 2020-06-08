@@ -11,5 +11,5 @@
       {"name": "ShotA","author": "Someone","url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/walla.jpg","collections": "featured,landscapes,people"},
 	{"name": "ShotB","author": "Someone","url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallb.png","dimensions": "3200x2560","collections": "people,city","downloadable": false},
 	{"author": "Someone","url": "https://raw.githubusercontent.com/jahirfiquitiva/MinDesigns-Wallpapers/master/Wallpapers/Free/wallc.jpg","name": "ShotC","dimensions": "1280x720","copyright": "Credits to its creator","collections": "landscapes,city"},
-	{"name": "Webp Image","author": "unknown","url": "https://www.gstatic.com/webp/gallery/4.webp","thumbnail": "https://www.gstatic.com/webp/gallery/5.webp","dimensions": "3200x2560","copyright": "Unknown","collections": "landscapes"},
+	{"name": "Webp Image","author": "unknown","url": "https://www.gstatic.com/webp/gallery/4.webp","thumbnail": "https://www.gstatic.com/webp/gallery/5.webp","dimensions": "3200x2560","copyright": "Unknown","collections": "landscapes"}
 ]
