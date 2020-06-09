@@ -112,31 +112,31 @@
 		"copyright": "Unknown",
 		"collections": "landscapes"
 	},
-    {
-        "name":"Wall 1_1580869413936_1580871921271",
-        "url":"https://dreamon3t.files.wordpress.com/2020/06/wall-1_1580869413936_1580871921271.png",
-        "thumbnail":"https://dreamon3t.files.wordpress.com/2020/06/wall-1_1580869413936_1580871921271.png?w=208",
-        "collections":"abstract",
-        "downloadable":true,
-        "size":"978297",
-        "dimensions":"1961 x 4141"
-    },
-    {
-        "name":"GradientImage_2020_04_20_19_08_03_1587402966703",
-        "url":"https://dreamon3t.files.wordpress.com/2020/06/gradientimage_2020_04_20_19_08_03_1587402966703.png",
-        "thumbnail":"https://dreamon3t.files.wordpress.com/2020/06/gradientimage_2020_04_20_19_08_03_1587402966703.png?w=208",
-        "collections":"abstract",
-        "downloadable":true,
-        "size":"425466",
-        "dimensions":"1033 x 2254"
-    },
-    {
-        "name":"image3A369477_Glitch7_chroma",
-        "url":"https://dreamon3t.files.wordpress.com/2020/06/image3a369477_glitch7_chroma.png",
-        "thumbnail":"https://dreamon3t.files.wordpress.com/2020/06/image3a369477_glitch7_chroma.png?w=208",
-        "collections":"abstract",
-        "downloadable":true,
-        "size":"4520211",
-        "dimensions":"2353 x 5099"
-    }
+	{
+		"name": "Wall 1_1580869413936_1580871921271",
+		"author": "unknown",
+		"url": "https://dreamon3t.files.wordpress.com/2020/06/wall-1_1580869413936_1580871921271.png",
+		"thumbnail": "https://dreamon3t.files.wordpress.com/2020/06/wall-1_1580869413936_1580871921271.png?w=208",
+		"dimensions": "1961 x 4141",
+		"copyright": "Unknown",
+		"collections": "test"
+	},
+	{
+		"name":"GradientImage_2020_04_20_19_08_03_1587402966703",
+		"url":"https://dreamon3t.files.wordpress.com/2020/06/gradientimage_2020_04_20_19_08_03_1587402966703.png",
+		"thumbnail":"https://dreamon3t.files.wordpress.com/2020/06/gradientimage_2020_04_20_19_08_03_1587402966703.png?w=208",
+		"collections":"abstract",
+		"downloadable":true,
+		"size":"425466",
+		"dimensions":"1033 x 2254"
+	},
+	{
+		"name":"image3A369477_Glitch7_chroma",
+		"url":"https://dreamon3t.files.wordpress.com/2020/06/image3a369477_glitch7_chroma.png",
+		"thumbnail":"https://dreamon3t.files.wordpress.com/2020/06/image3a369477_glitch7_chroma.png?w=208",
+		"collections":"abstract",
+		"downloadable":true,
+		"size":"4520211",
+		"dimensions":"2353 x 5099"
+	}
 ]
