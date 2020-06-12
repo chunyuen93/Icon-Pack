@@ -1,38 +1,26 @@
 [
 	{
-		"author": "@kurapzs",
-		"url": "https://drive.google.com/uc?id=1thKPbcSwuATfpjZJalufQF0aZxwNi6X5",
-		"thumbUrl": "https://drive.google.com/uc?id=1thKPbcSwuATfpjZJalufQF0aZxwNi6X5",
-		"name": "wall_purple"
-	},
-	{
-		"author": "@kurapzs",
-		"url": "https://drive.google.com/uc?id=1nmAgQRzq4kKA2SuTbkhnKi74XFBE6mld",
-		"thumbUrl": "https://drive.google.com/uc?id=1nmAgQRzq4kKA2SuTbkhnKi74XFBE6mld",
-		"name": "wall_pink"
-	},
-	{
-		"author": "@kurapzs",
-		"url": "https://drive.google.com/uc?id=1v6s68qfTP9FZp7oxjnfQxpOoZ4xsGx41",
-		"thumbUrl": "https://drive.google.com/uc?id=1v6s68qfTP9FZp7oxjnfQxpOoZ4xsGx41",
-		"name": "wall_ebony"
-	},
-	{
-		"author": "@kurapzs",
-		"url": "https://drive.google.com/uc?id=1Vc2ReedW4rTo8HyEZENPXvOJ38QkOrhd",
-		"thumbUrl": "https://drive.google.com/uc?id=1Vc2ReedW4rTo8HyEZENPXvOJ38QkOrhd",
-		"name": "boring"
-	},
-	{
-		"author": "@kurapzs",
-		"url": "https://drive.google.com/uc?id=1KIpP4r3L1lcnTTm_a5ZeQPaDyKceimk7",
-		"thumbUrl": "https://drive.google.com/uc?id=1KIpP4r3L1lcnTTm_a5ZeQPaDyKceimk7",
+		"author": "F#minor",
+		"url": "https://drive.google.com/uc?id=1NpmJzRyJJRJnnUnFrrBx_S3JyLAGm3Uk",
+		"thumbUrl": "https://drive.google.com/uc?id=1NpmJzRyJJRJnnUnFrrBx_S3JyLAGm3Uk",
 		"name": "wall_1"
 	},
 	{
-		"author": "@kurapzs",
-		"url": "https://drive.google.com/uc?id=1Q2Kd5y9goB1PfW8cxRq1mbNxqQGpA6kH",
-		"thumbUrl": "https://drive.google.com/uc?id=1Q2Kd5y9goB1PfW8cxRq1mbNxqQGpA6kH",
+		"author": "F#minor",
+		"url": "https://drive.google.com/uc?id=13hmYoH78HjLdGNfJTds4MpAXs_BcnLv3",
+		"thumbUrl": "https://drive.google.com/uc?id=13hmYoH78HjLdGNfJTds4MpAXs_BcnLv3",
 		"name": "wall_2"
-	}
+	},
+	{
+		"author": "F#minor",
+		"url": "https://drive.google.com/uc?id=1IljE-37IaBo_zkHxYY_xChCOriInm2O3",
+		"thumbUrl": "https://drive.google.com/uc?id=1IljE-37IaBo_zkHxYY_xChCOriInm2O3",
+		"name": "wall_3"
+	},
+	{
+		"author": "F#minor",
+		"url": "https://drive.google.com/uc?id=1HCMTdcSMav9-8KjQCQRu4fsVDh_-EoQk",
+		"thumbUrl": "https://drive.google.com/uc?id=1HCMTdcSMav9-8KjQCQRu4fsVDh_-EoQk",
+		"name": "wall_4"
+	},
 ]
